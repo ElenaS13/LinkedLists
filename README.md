@@ -2,8 +2,10 @@
 
 This is my knowledge gathering resource for all things LinkedLists. I try to use examples where possible to demontrate the functionality. 
 
-<h1>HackerRank Solution<h1>
+<h3>HackerRank Solution<h3>
+<h3>Comparing two linkedlists<h3>
 
+```
 int CompareLists(Node n1, Node n2) {
     if (n1 == null && n2 == null) {
         return 1;
@@ -17,3 +19,4 @@ int CompareLists(Node n1, Node n2) {
     }
     return (n1 == null && n2 == null) ? 1 : 0;
 }
+```
