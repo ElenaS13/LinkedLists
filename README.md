@@ -2,7 +2,7 @@
 
 This is my knowledge gathering resource for all things LinkedLists. I try to use examples where possible to demontrate the functionality. 
 
-<h5>Comparing two lists<h5>
+##### Comparing two lists
 In this exercise, we compare two linkedlists and return 1 if they are identical and 0 if they are not. 
 
 ```
