@@ -3,9 +3,6 @@
 This is my knowledge gathering resource for all things LinkedLists. I try to use examples where possible to demontrate the functionality. 
 
 
-<h4>HackerRank Solution<h4>
-
-
 In this exercise, we compare two linkedlists and return 1 if they are identical and 0 if they are not. 
 
 ```
