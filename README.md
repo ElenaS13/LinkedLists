@@ -59,3 +59,7 @@ Deletion - delete an element at the beginning of the list.
 Display - display complete list.
 Search - search an element using given key.
 Delete - delete an element using given key. 
+
+Algorithm is a sequence of steps, not a program. The same algorithm can be used in different programs. 
+Data Strutures - schemes for organizing data. 
+
