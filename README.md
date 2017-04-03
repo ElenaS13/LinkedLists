@@ -40,3 +40,22 @@ Node Reverse(Node head) {
     return prev;
 }
 ```
+##### From TutorialsPoint
+
+Each link contains a connection to another link. 
+Each link of a linked list can store data called element.
+Each link contains a link to next link called next.
+A linked list contains a connection link to the first link called first. 
+
+##### Types of LinkedList 
+
+Singly linked list - item navigation only forward
+Doubly linked list - item navigation can be forward and backward
+Cingular linked list - last item contains link as the first element as next and the first element has link to last element as prev. 
+
+##### Basic Operations
+Insertion - add an element at the beginning of the list.
+Deletion - delete an element at the beginning of the list.
+Display - display complete list.
+Search - search an element using given key.
+Delete - delete an element using given key. 
